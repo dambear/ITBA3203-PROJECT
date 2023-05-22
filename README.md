@@ -1,4 +1,5 @@
 
+
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 # Dengue Unleashed: Tracing the Outbreaks and Patterns of Dengue Cases in the Philippines (2016-2020)
@@ -43,4 +44,12 @@ Overall, the expected output of this research is to provide valuable information
 
 ## REFERENCE
 https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines
+
+1. Epidemiology of dengue disease in the Philippines (2000–2011): a systematic literature review. PLoS Negl Trop Dis. 2014; 8: e3027 https://doi.org/10.1371/journal.pntd.0003027
+2. Compendium of Philippine environment statistics component 5: human settlements and environmental health [Internet]. Philippine Stat Author. 2021; ([cited 2022 April 13]. Available from:) https://psa.gov.ph/press-releases/id/165164
+3. Current DF/DHF prevention and control programme in the Philippines.
+4. Dengue Prevention and Control Program [Internet]. Department of Health. [cited 2022 April 13]. Available from: https://doh.gov.phnational-dengue-prevention-and-control-program.
+5. Communicating covid-19 vaccines: lessons from the dengue vaccine controversy in the Philippines.
+BMJ Glob Health. 2021; 6: e005422 https://doi.org/10.1136/bmjgh-2021-005422
+
 
