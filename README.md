@@ -1,6 +1,6 @@
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](Resources Picture/sdg 3.jpg)
 
 # Dengue Unleashed: Tracing the Outbreaks and Patterns of Dengue Cases in the Philippines (2016-2020)
 
