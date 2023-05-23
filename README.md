@@ -4,7 +4,7 @@
 
 # Dengue Unleashed: Tracing the Outbreaks and Patterns of Dengue Cases in the Philippines (2016-2020)
 
-This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
+*This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3203)*
 
 ![](Resources%20Picture/memberss.png)
 
