@@ -6,6 +6,8 @@
 
 This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
 
+![](Resources%20Picture/members.png)
+
 ## INTRODUCTION
 
  In the Philippines, dengue is probably the most well-known and feared tropical disease. The first recorded dengue epidemic in Southeast Asia occurred in Manila in 1954, and dengue has since remained endemic.[1] In 2019, 437,563 cases were recorded in the Philippines, contributing to the highest dengue cases ever recorded globally.[2]
