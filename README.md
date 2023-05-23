@@ -4,6 +4,8 @@
 
 # Dengue Unleashed: Tracing the Outbreaks and Patterns of Dengue Cases in the Philippines (2016-2020)
 
+This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
+
 ## INTRODUCTION
 
  In the Philippines, dengue is probably the most well-known and feared tropical disease. The first recorded dengue epidemic in Southeast Asia occurred in Manila in 1954, and dengue has since remained endemic.[1] In 2019, 437,563 cases were recorded in the Philippines, contributing to the highest dengue cases ever recorded globally.[2]
