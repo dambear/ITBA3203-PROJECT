@@ -28,7 +28,7 @@ The Philippines' climate, characterized by high temperatures and abundant rainfa
 
 As one of the most vulnerable countries globally, the Philippines is committed to addressing the dengue epidemic. The government has established robust legislative and administrative structures to achieve national development goals and fulfill international obligations for climate prevention and adaptation. Integration of climate change prevention and catastrophic risk reduction activities into the Philippine Development Plan from 2017 to 2022 underscores the urgent need for comprehensive adaptation strategies to combat the dengue crisis effectively.
 
-## SIGNIFICANT OF THE STUDY
+## SIGNIFICANT OF THE PROPOSE PROJECT
 
 Dengue fever has been a significant public health concern in the Philippines for many years. The country experiences frequent outbreaks of dengue, particularly during the rainy season when mosquito populations thrive. The effects of dengue in the Philippines can be significant and have a considerable impact on public health and the affected individuals. The Department of Health (DOH) in the Philippines is responsible for monitoring and reporting dengue cases.  
 
