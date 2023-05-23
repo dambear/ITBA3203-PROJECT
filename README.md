@@ -6,10 +6,8 @@
 
 *This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3203)*
 
+![](Resources%20Picture/memberss.png) 
 
-<p align="center">
-    ![](Resources%20Picture/memberss.png) 
-</p>
 
 ## INTRODUCTION
 
