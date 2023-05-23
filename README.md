@@ -6,7 +6,7 @@
 
 This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)
 
-![](Resources%20Picture/members.png)
+![](Resources%20Picture/memberss.png)
 
 ## INTRODUCTION
 
