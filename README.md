@@ -35,7 +35,14 @@ As one of the most vulnerable countries globally, the Philippines is committed t
 
 ## SIGNIFICANT OF THE PROPOSE PROJECT
 
-Dengue fever has been a significant public health concern in the Philippines for many years. The country experiences frequent outbreaks of dengue, particularly during the rainy season when mosquito populations thrive. The effects of dengue in the Philippines can be significant and have a considerable impact on public health and the affected individuals. The Department of Health (DOH) in the Philippines is responsible for monitoring and reporting dengue cases.  
+Dengue fever has been a significant public health concern in the Philippines for many years. The country experiences frequent outbreaks of dengue, particularly during the rainy season when mosquito populations thrive. The effects of dengue in the Philippines can be significant and have a considerable impact on public health and the affected individuals. The Department of Health (DOH) in the Philippines is responsible for monitoring and reporting dengue cases. Dengue fever is characterized by symptoms such as high fever, severe headache, joint and muscle pain, rash, and in some cases, it can lead to a more severe form called dengue hemorrhagic fever, which can be life-threatening. The increase in dengue cases can be influenced by various factors, including weather conditions, mosquito breeding sites, population density, and public health efforts. The Department of Health has reported that climate change could be responsible for the notable rise in dengue incidence in the Philippines from 2016 to 2020. Dengue transmission may be impacted by climate change both directly and indirectly. Increased temperatures, altered rainfall patterns, and altered humidity levels are direct factors that may have an impact on mosquito reproduction, survival, and activity. Indirect effects of climate change on dengue transmission include human behavior and the geographic distribution of mosquitoes. The goal of this project is to provide an explanation of the trends in dengue cases in the Philippines as time passes. It will do this by providing a total number of dengue cases by region in the Philippines from 2016 to 2020. This research will be useful for the following purposes: 
+
+The students. For the benefit of those students who may require any data that may be found during the project. They will be able to fully comprehend the evolution of dengue cases in the Philippines as a result.
+
+The Teachers. For teachers who will be teaching about dengue cases in the Philippines through the years. The information collected in the project can be utilised in their courses.
+
+The Future Researchers. Background information about dengue cases in the Philippines is being provided by the researchers. They can gain fresh perspectives, ideas, and conclusions from this project's analytics.
+
 
 ## METHODS
 
